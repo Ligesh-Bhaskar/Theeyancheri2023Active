@@ -8,7 +8,7 @@ Polymer_COM_MSD.cpp: C++ code to compute the center of mass MSD of the polymers.
 
 Time_Exponent.cpp: C++ code to compute the time exponents of MSDs. 
 
-Radius_Gyration_Tensor_Polymer.cpp: C++ code to compute the radius of gyration tensor of the polymers.
+Radius_gyration_tensor.cpp: C++ code to compute the radius of gyration tensor of the polymers.
 
 RG_ACF.cpp: C++ code to compute the radius of gyration autocorrelation function. 
 
